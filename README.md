@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Manager
 ----------
 
-Veteran IT manager, coded in more languages than I've hair left! Am old enough that I don't need Google or ChatGPT to fix problems. Worked in the financial sector and for Blue chips, done everything. Now I do training and teach Linux (with the history of computing, CLI and everything else), have run big tech communities. Will launch a blog in the autumn, reviewing tech and clever microprocessors, etc Currently, doing masses of #AWS, great fun but hard on my old brain😁 Am BrianLinuxing everywhere. PS: am a Wikipedian and love facts, reason and knowledge.
+Veteran IT manager, coded in more languages than I've hair left! 
+
+Am old enough that I don't need Google or ChatGPT to fix problems. 
+
+Worked in the financial sector and for Blue chips, done everything. Now I do training and teach Linux (with the history of computing, CLI and everything else), have run big tech communities. Will launch a blog in the autumn, reviewing tech and clever microprocessors, etc.
+
+Currently, doing masses of #AWS, great fun but hard on my old brain :) Am BrianLinuxing everywhere. PS: am a Wikipedian and love facts, reason and knowledge.
 
 *   🌍  I'm based in London
 *   🖥️  See my portfolio at [My interim site](http://www.tumblr.com/brianlinuxing/701463819518689280/an-introduction-from-brianlinuxing-welcome)
