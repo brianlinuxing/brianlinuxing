@@ -9,7 +9,8 @@ Veteran IT manager, coded in more languages than I've hair left! Am old enough t
 *   🌍  I'm based in London
 *   🖥️  See my portfolio at [My interim site](http://www.tumblr.com/brianlinuxing/701463819518689280/an-introduction-from-brianlinuxing-welcome)
 *   🧠  I'm learning AWS
-*   ⚡  I like opera, books and tea.<a href="https://www.twitter.com/brianlinuxing" target="_blank" rel="noreferrer"><img
+*   ⚡  I like opera, books and tea.
+*   <a href="https://www.twitter.com/brianlinuxing" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/brianlinuxing?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
 ### Skills 
